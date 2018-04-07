@@ -82,4 +82,15 @@ Do accounting processing based on Subscription plan of downloaded application.
 ```
 
 ### S1.4.3. Token PaymentSee subscription billing management.
+
+```
+See subscription billing management.
+```
+
 ### S1.4.4. Token ExchangeSee Membership.
+
+```
+See Membership.
+-Conversion of owning Token is done on the member management side for use on the platform.
+```
+
