@@ -1,5 +1,6 @@
 ---
-# <details><summrary>P1. Application Library</summrary>
+# P1. Application Library
+<details><summrary>Details</summrary>
 ## E1.1. General Functionality
 ### S1.1.1. Dashboard
 
