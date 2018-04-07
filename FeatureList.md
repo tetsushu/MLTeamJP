@@ -95,4 +95,13 @@ See Membership.
 -Conversion of owning Token is done on the member management side for use on the platform.
 ```
 
-:link: ![Function Relevance Outline Diagram](./resource/AL_FuncRelevanceOutlineDiagram.PNG "Figure 8. Function Relevance Outline")
+____  
+## :link: Figure 1. Function Relevance Outline
+![Function Relevance Outline Diagram](./resource/AL_FuncRelevanceOutlineDiagram.PNG "Figure 1. Function Relevance Outline")
+____  
+
+____  
+## :link: Figure 2. Functional Components
+![Functional Components Diagram](./resource/AL_ComponentDiagram.PNG "Figure 2. Functional Components")
+____  
+
