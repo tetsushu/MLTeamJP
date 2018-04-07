@@ -1,6 +1,5 @@
 ---
 # P1. Application Library
-<details><summrary>Details</summrary>
 ## E1.1. General Functionality
 ### S1.1.1. Dashboard
 
@@ -106,4 +105,3 @@ ____
 ![Functional Components Diagram](./resource/AL_ComponentDiagram.PNG "Figure 2. Functional Components")
 ____  
 
-</details>
